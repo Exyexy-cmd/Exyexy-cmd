@@ -70,7 +70,7 @@
 ## 🐍 Snake das contribuições
 
 <p align="center">
-  <img src="https://github.com/Exyexy-cmd/Exyexy-cmd/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/exyexy-cmd/snake-animation/blob/output/snake.svg" />
 </p>
 
 ---

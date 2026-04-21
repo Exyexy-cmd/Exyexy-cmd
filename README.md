@@ -67,14 +67,6 @@
 
 ---
 
-## 🐍 Snake das contribuições
-
-<p align="center">
-  <img src="https://github.com/Exyexy-cmd/snake-animation/blob/output/snake.svg" />
-</p>
-
----
-
 ## 👀 Contador de visitas
 
 <p align="center">

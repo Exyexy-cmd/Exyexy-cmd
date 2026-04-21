@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Olá, eu sou o Alex!
 
-<!--
-**Exyexy-cmd/Exyexy-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Front-End em evolução, focado em criar interfaces modernas, responsivas e funcionais.
 
-Here are some ideas to get you started:
+🚀 Sobre mim
+💻 Estudando desenvolvimento web com foco em Front-End
+🎨 Interesse em design de interfaces (UI/UX)
+📚 Atualmente aprendendo e evoluindo com projetos práticos
+🧠 Sempre buscando melhorar lógica e organização de código
+🛠️ Tecnologias & Ferramentas
+💻 Front-End
+HTML5
+CSS3
+JavaScript
+🎨 Estilização
+Flexbox
+Grid Layout
+Responsividade (Mobile First)
+⚙️ Ferramentas
+Git & GitHub
+VS Code
+Figma (básico)
+📈 Estatísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+📌 Projetos em destaque
+
+🔹 Umbrella Capsule
+Projeto com múltiplas páginas, navegação funcional e layout moderno.
+👉 https://exyexy-cmd.github.io/umbrella-capsule/
+
+📫 Contato
+💼 LinkedIn: (coloque aqui)
+📧 Email: (coloque aqui)
+⚡ Curiosidade
+
+Sempre buscando evoluir um nível a mais a cada projeto 🚀

@@ -60,7 +60,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/alex-gomes-almeida-824404242/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -70,7 +70,7 @@
 ## 🐍 Snake das contribuições
 
 <p align="center">
-  <img src="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Exyexy-cmd/Exyexy-cmd/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

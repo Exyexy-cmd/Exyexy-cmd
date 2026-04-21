@@ -40,7 +40,7 @@
 ## 🔥 Streak de contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Exyexy-cmd&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 🔹 Navegação entre páginas
 🔹 Layout responsivo
 
-👉 https://exyexy-cmd.github.io/umbrella-capsule/
+👉 https://Exyexy-cmd.github.io/umbrella-capsule/
 
 ---
 

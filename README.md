@@ -78,7 +78,7 @@
 ## 👀 Contador de visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Exyexy-cmd&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---

@@ -13,10 +13,10 @@
 
 ## 🧠 Sobre mim
 
-* 💻 Focado em desenvolvimento Front-End
-* 🎯 Evoluindo com projetos reais
-* 🎨 Interesse forte em UI/UX
-* 📈 Em busca da primeira oportunidade na área
+* 💻 Focado em desenvolvimento Front-End e Automação de processo em Python.
+* 🎯 Evoluindo com projetos reais.
+* 🎨 Interesse forte em UI/UX.
+* 📈 Em busca da primeira oportunidade na área.
 
 ---
 

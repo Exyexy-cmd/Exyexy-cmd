@@ -29,7 +29,7 @@
 ---
 
 ## 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Exyexy-cmd&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Exyexy-cmd&show_icons=true&theme=tokyonight)
 
 ---
 

@@ -1,21 +1,21 @@
 <h1 align="center">👨‍💻 Alex Gomes</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Front-End em evolução <br>
-  🎨 UI/UX | ⚡ Performance | 📱 Responsividade
+  🚀 Data Engineer em evolução <br>
+  🎨 Python | ⚡ Performance | 📱 Responsividade
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Front-End+Developer;Criando+interfaces+modernas;Sempre+evoluindo..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Data-Engineer+Developer;Criando+scripts+modernos;Sempre+evoluindo..." />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-* 💻 Focado em desenvolvimento Front-End e Automação de processo em Python.
+* 💻 Focado em automação deprocessos voltado a banco de dados e analise critica em Python.
 * 🎯 Evoluindo com projetos reais.
-* 🎨 Interesse forte em UI/UX.
+* 🎨 Interesse forte em IA.
 * 📈 Em busca da primeira oportunidade na área.
 
 ---
@@ -23,7 +23,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,js,git,github,gemini,figma,mysql" />
 </p>
 
 ---
@@ -41,18 +41,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Exyexy-cmd&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🚀 Projeto em destaque
-
-### 🌂 Umbrella Capsule
-
-🔹 Interface moderna
-🔹 Navegação entre páginas
-🔹 Layout responsivo
-
-👉 https://Exyexy-cmd.github.io/umbrella-capsule/
 
 ---
 
